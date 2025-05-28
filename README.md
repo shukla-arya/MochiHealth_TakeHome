@@ -15,6 +15,7 @@ A tool that will help support agents log the mood of the ticket queue throughout
 
 ```bash
 pip install Flask gspread oauth2client plotly pandas
+```
 
 ### Link to Deployed Flask App
 http://127.0.0.1:5000
