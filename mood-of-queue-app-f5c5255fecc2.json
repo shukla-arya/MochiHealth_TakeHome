@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mood-of-queue-app",
+  "private_key_id": "f5c5255fecc25bc2ef32aa55b561351b6c90a949",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5nN2wx9jtztwZ\ndICQjP+CgFqGwJhNsX8YhpQlkTMByK5hFSe9+8IUvS84EaKiMQwd8gIje8I8zhPS\ngHcBND+F9PTrTxbGLWZRywfX+HGGrg+ec0UWX7XOD0HHiyXL7cowzFlrZyFRoXUu\nbpk/QkjK7rX00C/3HnqsuurdMpAD/zX9nrrQMP17JePdjXRq19P/Fh+ektezTVdb\nyE4xZTjhRt3TRiTBh5dOUSMdI1eSumEc2ohgevIA3y+cE6g2vo5gGQX7/bu6OsXy\nStf5FqPBj/2e5T8hakblj2TP5+5K3BC1as5N3kgZo5FjJV5zSMOHpQbQKs6oR7vD\nglQdsGHtAgMBAAECggEACQ7ge6MQ8/ZLBfB0nupC9m8medfg3wbnLBJsK13UykaI\nT3UXU11gumRwI3p+WqDpheernLKHxrGaxguL5gMJoBiWz7g3xRrOKP8zamq1YfQM\nlI0tz2VLQW5Lzow146veJ72urAdaze3MRRJV5NYIsraNa1QnvXHBdWW2Eq9cSwzE\nRZlJ9Jod3QxR3Iw3sxpXXMcJhaX+/sSzLjJKJ2BN5cxHg8npXljFJOn5cP+0skjw\nq6IZp8bGw6TnTqZkcuib84PUcKl1nmtF8R3uhEqDxdVwqYQ4WGX66RpGhMhrRIg+\nom+FhZIrEzsRAJTSJgge1WUP571AD0g9My67rlZEWQKBgQD+9slnHwX19BcKqc5V\nbElC/Kiw1t1AOhP9JHnB7lV2zQkQDCsycR+yIM7c6U+vJzll4ycwebjgDFTAtDQ0\ntcrbI6wm3iLcRBxbz6rJIkVqhJGFpdNe+tO8OtOrAeN+L+4kqI1uAihIBcm3iMGc\nwSyQl2x9woMulO1ZQUFJXY/SOQKBgQD6oINMOQE20Y2258vnY7xz4SZiMWKViM+n\nPsOm289weazUeJ15AB3kZ4rLJLbQ0EvItNdKrLgppSL3qMzKonMHbP7W1D0Q76Gs\nGtW0BNuaq7U+2LWIkjH4et3ID6HHRhDOnhxuoQz8gmJeuLCWoLlRNgm7iDBMdgde\nIX2vppg9VQKBgCZf7qBewv7p5i3ssOmaisxSSvGS5WotU6TeQJU30hU3dw27RyUo\ncaTV20zUsPGj7bewIM3jBDh0oqz+cn0cf5PMIrUW6hhNCBepggMT7W7C1URQWSgK\niKPkFse+WQc9H5LU67SLDpUIifvd0YZObO62W9Xx2NzB/ZdZgwIP2v3BAoGBAIsX\nF6bun/jfVUmj3Kqe1FBvLJEkHTUlxzBnCcgJh1dBf6QvCB3F7dD7kbBpwLekUdqi\nWjUMI+ygxAYz/OucOkBtwgRRp05F3zCXd/A/Hez5zE2DkUOo9uiSr5C+9CaWgO9a\nGidfY8ijR5qP3xjJO++RENetnjhg7HfWGF2qFCU9AoGAI4YqDqR7coXdBMpp3xtk\n51JC2AXyInqkkJ3IlXYHPt4jpqx1HGYSsmY5I1lh/RIShoU62zgAdIJrUB+lw0Gg\nZYK5VJSl+WeyaCEnqpG8Q41PjXsdnqhftlXvCeND0b2/Hva7BjWPGwvSQ5AlV7kp\n3HyGwhpe/92vFNoNeDvbVgU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mood-of-queue-service@mood-of-queue-app.iam.gserviceaccount.com",
+  "client_id": "109790639198630845830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mood-of-queue-service%40mood-of-queue-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
