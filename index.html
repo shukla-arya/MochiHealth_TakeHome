@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mood of Queue</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        button { font-size: 2em; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Log Your Mood</h1>
+    <form method="POST">
+        {% for value, label in moods.items() %}
+            <button type="submit" name="mood" value="{{ value }}">{{ label }}</button>
+        {% endfor %}
+        <br><br>
+        <input type="text" name="note" placeholder="Optional note" size="40">
+    </form>
+
+    <hr>
+    <h2>Today's Mood Summary</h2>
+    {{ plot_div|safe }}
+</body>
+</html>
