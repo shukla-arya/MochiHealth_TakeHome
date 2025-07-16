@@ -9,7 +9,7 @@ A tool that will help support agents log the mood of the ticket queue throughout
 - **Language:** Python  
 - **Framework:** Flask  
 - **Google Sheets API:** `gspread` and `oauth2client`
-- **Visualization:** Plotly
+- **Visualization:** `plotly`
   
 ## Requirements
 
